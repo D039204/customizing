@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"EHU",
+    "NAME1":"Food EHU",
+    "CNTRY":"DE",
+    "NAME2":"",
+    "LANGU":"D",
+    "STRET":"Burgerstreet 40",
+    "POBOX":"",
+    "PSTLC":"71689",
+    "CITY":"Canstatt",
+    "CURR":"EUR",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
